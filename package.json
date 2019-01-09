@@ -1,0 +1,22 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "first package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "testnow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slingaxesf/intro-to-react.git"
+  },
+  "keywords": [
+    "testjson"
+  ],
+  "author": "Robert Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slingaxesf/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/slingaxesf/intro-to-react#readme"
+}
